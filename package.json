@@ -1,0 +1,8 @@
+{
+  "name": "blog-platform",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  }
+}
